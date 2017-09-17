@@ -5,7 +5,7 @@ date: "21 08 2016"
 ---
 Getting and Cleaning Data Project
 =================================
-**Human Activity Recognition Using Smartphones Subset**
+*Human Activity Recognition Using Smartphones Subset*
 ---------------------------------------------------
 
 Introduction:
